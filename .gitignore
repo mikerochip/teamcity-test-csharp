@@ -1,0 +1,18 @@
+# MacOS
+.DS_Store
+
+# Visual Studio
+.vs
+
+# VS Code
+.vscode
+
+# Rider
+.idea
+*.DotSettings.user
+
+# Gradle
+.gradle
+
+# AWS Toolkit
+aws-logger-errors.txt
